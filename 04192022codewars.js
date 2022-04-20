@@ -1,0 +1,7 @@
+//CODEWARS
+//04-19-2022
+//CREATE A FUNCTION THAT MULTIPLIES 2 NUMBERS AND RETURNS THE SUM
+
+function multiply(a,b){
+    return a*b
+}
