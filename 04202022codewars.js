@@ -9,4 +9,4 @@ function boolToWord( bool ){
     return "No"
 }
 
-//Here since we are not assigning bool and it is a comparison, use ==.
+//Here since we are not assigning bool and it is a comparison, use ==. update
